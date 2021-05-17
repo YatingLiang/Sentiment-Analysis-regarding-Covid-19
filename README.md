@@ -52,3 +52,19 @@ Naive Bayes, Random Forest and Neural Network.
 Treat TextBlob as the baseline method and compare its metrics with the metrics
 from the other methods.
 
+<<<<<<< HEAD
+## Caution:
+### Neural Network:
+If you cannot successfully run the neural network model please install:
+`Scikt-Learn` and `Tensorflow 2.0`.
+Here is the command line code you need to install tensorflow:
+#### pip install --upgrade tensorflow
+
+## Source of dataset:
+https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
+
+## Usage:
+Please navigate to this directory on terminal and type:
+`python main.py --test_file Corona_NLP_test.csv --train_file Corona_NLP_train.csv`
+=======
+>>>>>>> 0e7e11701c4d23bd548f16bf5fc6b10bcdc46828
