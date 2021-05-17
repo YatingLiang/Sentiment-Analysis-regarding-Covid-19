@@ -44,3 +44,6 @@ and
 #### Tensorflow 2.0
 Here is the command line code you need to install tensorflow:
 #### pip install --upgrade tensorflow
+
+## Source of dataset:
+https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
