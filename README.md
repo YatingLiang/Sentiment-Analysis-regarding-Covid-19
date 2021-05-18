@@ -27,6 +27,8 @@ Here is the command line code you need to install tensorflow:
 <pre><code>pip install --upgrade tensorflow
 </code></pre>
 
+If you cannot successfully run the textblob, here is the command line code:
+
 <pre><code>pip install -U textblob
 </code></pre>
 
